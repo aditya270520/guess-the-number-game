@@ -6,8 +6,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ## Usage
 
-```python
-import random```
+```python import random```
 
 
 ## Contributing
